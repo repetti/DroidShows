@@ -2,3 +2,6 @@ bin/
 gen/
 *.iml
 .idea
+/gradlew*
+*.jar
+/local.properties
